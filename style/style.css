@@ -1,0 +1,146 @@
+.container{
+    max-width:100%;
+    margin: auto;
+}
+*{padding: 0px;
+    box-sizing: border-box;
+    margin: 0px;
+}
+section{
+    float: left;
+    width: 100%;
+}
+body{
+    color: #222;
+    font-family: "Arial",sans-serif;
+}
+.header{
+    background-color: rgb(238,238,238);
+    border-bottom: 1px #ccc solid;
+}
+.login
+    {
+        margin-top: 27px;
+    }
+
+.sri{
+    display: inline;
+}
+.sri h5{
+    border-radius: 1em;
+    background-color:  white;
+    border: 1px solid #ccc;
+    float: left;
+    line-height: 1;
+    margin: 0 5px;
+    padding: 0.25em;
+    text-decoration: none;
+    color: #0000EE;
+    font-size: 16px;
+    background-color:;
+    margin: 0px 5px;
+    padding: 4px;
+}
+.sri p{
+font-size: 14px;
+font: inherit;
+vertical-align: baseline;
+display: block;
+    margin-block-start: 1em;
+    margin-block-end: 1em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+    padding: 0px;
+
+}
+.login1{
+    border-radius: 2px;
+    border: 1px solid #ccc;
+    margin: 16px auto;
+    max-width: 400px;
+    padding: 8px;
+
+}
+.head{
+    border-radius: 2px;
+    background-color: #eee;
+    border: 1px solid #E4E4E4;
+    font-weight: bold;
+    padding: 8px 5px;
+    text-align: center;
+    font-size: 16px;
+}
+.form-group{
+    margin: 10px 8px;
+}
+.form-control{
+    border-radius: 3px;
+    border: 1px solid #ccc;
+    display: block;
+    font-family: "Times New Roman",Times,serif;
+    font-size: 16px;
+    padding: 4px;
+    width: 97.5%;
+}
+.btn{
+    border-radius: 3px;
+    background: linear-gradient(#eee, #DCDCDC);
+    border: 1px solid #ccc;
+    font-size: 14px;
+    float: left;
+    padding: 5px 6px;
+    margin-left: 8px;
+    cursor: pointer;
+}
+.btn1{
+    border-radius: 3px;
+    background: linear-gradient(#eee, #DCDCDC);
+    border: 1px solid #ccc;
+    font-size: 14px;
+    float: left;
+    padding: 5px 6px;
+    margin-left: 182px;
+    cursor: pointer;
+}
+.center{
+    text-align: center;
+    font-style: italic;
+    font-size: 16px;
+}
+.center p{
+    display: block;
+    margin-block-start: 1em;
+    margin-block-end: 1em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+
+}
+.down{
+    display: inline-flex;
+}
+.btn3{
+    border-radius: 3px;
+    background: linear-gradient(#eee, #DCDCDC);
+    border: 1px solid #ccc;
+    font-size: 14px;
+    float: left;
+    padding: 5px 6px;
+    margin-left: 168px;
+    cursor: pointer;
+}
+.button{
+    display: inline-flex;
+}
+.raj{
+    border: 2px solid blue;
+    border-radius: 3px;
+    background: red;
+    font-size: 14px;
+    padding: auto;
+    margin: auto;
+}
+.pandi{
+    margin: 16px auto;
+    padding:8px;
+    text-align: center;
+}
